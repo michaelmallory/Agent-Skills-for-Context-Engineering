@@ -92,7 +92,7 @@ skill-name/
 
 See the [template](template/) folder for the canonical skill structure.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+<img width="3664" height="2648" alt="star-history-20251222" src="https://github.com/user-attachments/assets/db467b7c-7663-43f4-be23-d04d4a982e00" />
 
 ## Contributing
 
